@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/WebPages/LoginPage.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebPages/__init__.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/config/__init__.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/config/config.ini" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/__init__.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/testCase.xls" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/framework/CommonUtil.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/framework/__init__.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/framework/base_page.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/framework/browser_engine.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/framework/logger.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/framework/sendmail.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/framework/zqexcelutils.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/test/__init__.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testsuites/TestRunner.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testsuites/__init__.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testsuites/test_login_fail.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testsuites/test_login_success.py" charset="GBK" />
+  </component>
+</project>
